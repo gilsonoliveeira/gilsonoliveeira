@@ -1,8 +1,8 @@
-<h1 align="center">Hello, world! 👋</h1>
+<h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h1>
 
 ###
 
-<h3 align="left">Meu nome é Gilson Oliveira || I'm, Gilson Oliveira</h3>
+<h3 align="left">Meu nome é Gilson Oliveira || My name is Gilson Oliveira </h3>
 
 ###
 
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/gilson-oliveira-287424343" target="_blank">
+  <a href="http://www.linkedin.com/in/gilson-oliveira-287424343" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gilsonoliveeira" target="_blank">
