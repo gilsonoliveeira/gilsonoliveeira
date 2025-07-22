@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gilsonoliveeira.gilsonoliveeira&" width="80"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gilsonoliveeira.gilsonoliveeira&" width="200"  />
 </div>
 
 ###
