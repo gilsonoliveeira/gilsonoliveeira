@@ -75,7 +75,7 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/gilsonoliveeira/gilsonoliveeira/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/gilsonoliveeira/gilsonoliveeira/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
