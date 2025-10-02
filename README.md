@@ -1,8 +1,8 @@
-<h1 align="center">Hello, world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
+<h1 align="center">Olá Mundo 🌎 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
 
 ###
 
-<h3 align="left">Meu nome é Gilson Oliveira || My name is Gilson Oliveira </h3>
+<h3 align="left">Meu nome é Gilson Oliveira</h3>
 
 ###
 
