@@ -13,8 +13,7 @@
 <ul align = "left">
   <li>🎓 Técnico em Administração pelo IFMG (2017)</li>
   <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</li>
-  <li>📚 Atualmente estudando JavaScript e React</li>
-  <li>🎯 Em busca da minha primeira oportunidade na área de tecnologia</li>
+  <li>🎯 Atuando como desenvolvedor Front-End</li>
   <li>📍 Moro em Rio Pomba, Minas Gerais, Brasil</li>
   <li>📩 E‑mail: <a>gilsonoliveira.dev@gmail.com</a></li>
 </ul>
